@@ -1,0 +1,6 @@
+The map() method in JavaScript is used with arrays to create a new array by calling a function on every element of the original array. 
+This method is very useful for applying a specific operation to each item of an array and creating a new array with the results
+element: The current element being processed in the array.
+index (optional): The index of the current element being processed in the array.
+array (optional): The array map was called upon.
+thisArg (optional): Value to use as this when executing function.
