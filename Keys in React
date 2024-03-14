@@ -1,0 +1,6 @@
+Keys in React are special string attributes that you need to include when creating lists of elements.
+They help React identify which items have changed, are added, or are removed.
+Keys can be used in the following way :
+Using Keys with Lists: When you render a dynamic list (for example, a list of user objects), you should assign a key to each list item using a unique value from each item (like an ID).
+Choosing a Key: The best way to pick a key is by using a unique string that identifies a list item among its siblings. Most often, you would use IDs from your data as keys. 
+Keys Must Only Be Unique Among Siblings: Keys used within a list should be unique among their siblings. However, they don’t need to be globally unique. 
