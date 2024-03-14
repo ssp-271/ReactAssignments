@@ -1,0 +1,4 @@
+//Images can be uploaded directly using the link of the image
+//Images can also be uploaded by storing the images in the public folder and accessing them when using the <img> tag
+//When Images are stored in a folder within the public folder, we have to redirect to that folder in the tag
+//By default images can be accessed by placing them
