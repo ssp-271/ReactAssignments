@@ -1,0 +1,11 @@
+Conditional Rendering : 
+It is used to render different components or elements based on certain conditions. It's similar to how conditional statements work
+in regular JavaScript. In React, you typically use JavaScript operators like if,else, logical to create elements representing the curent state.
+We can implement conditional rendering in the following way:
+
+Using If..Else:
+We can use it in the components function body
+
+Using the Logical && Operator:
+This is useful for rendering something based on a condition. If the condition is true, the element after the && will appear in the output
+These are few ways in which we can achieve conditional rendering.
