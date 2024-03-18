@@ -1,0 +1,28 @@
+{
+  "emps": [
+    {
+      "empid": 10,
+      "empname": "Scott",
+      "loc": "Hyd",
+      "job": "Sales"
+    },
+    {
+      "empid": 20,
+      "empname": "Jim",
+      "loc": "Pune",
+      "job": "Sales"
+    },
+    {
+      "empid": 30,
+      "empname": "Pam",
+      "loc": "Goa",
+      "job": "Sales"
+    },
+    {
+      "empid": "40",
+      "empname": "Pavan",
+      "loc": "Chennai",
+      "job": "Sales"
+    }
+  ]
+}
